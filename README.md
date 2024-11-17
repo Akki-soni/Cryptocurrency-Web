@@ -23,10 +23,11 @@
 
 ## 🚀 Features
 
-- **Image scaling, rotation, and translation effects.**
-- **Smooth transitions and animations on hover or click.**
-- **Fully responsive design.**
-- **Easy to customize with different transform styles.**
+- **Real-time Cryptocurrency Prices**: Displays live cryptocurrency prices fetched from an API.
+- **Interactive Charts**: Dynamic charts showing the price trends of various cryptocurrencies.
+- **Search Functionality**: Allows users to search for specific cryptocurrencies.
+- **Responsive Design**: Optimized for both mobile and desktop viewing.
+- **Lightweight and Fast**: Simple and fast user interface using vanilla JavaScript.
 
 ## 🛠️ Technologies Used
 
