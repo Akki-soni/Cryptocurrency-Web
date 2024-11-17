@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  A visually engaging Image Transform Effect created using HTML, CSS, and JavaScript. This project demonstrates how to apply various transformations and animations to images, enhancing the user experience with hover or click interactions.
+  A responsive and interactive cryptocurrency website developed using HTML, CSS, and JavaScript. The website provides up-to-date cryptocurrency information, including real-time prices, charts, and other key metrics.
 </p>
 
 ## 🚀 Features
