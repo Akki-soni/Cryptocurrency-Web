@@ -37,7 +37,7 @@
 
 ## 🌟 Screenshots
 
-![Cryptocurrency-Web_Screenshot](/images/ITE_Screenshot.png)
+![Cryptocurrency-Web_Screenshot](/images/C_Screenshot.png)
 
 ## 🔗 Live Demo
 
