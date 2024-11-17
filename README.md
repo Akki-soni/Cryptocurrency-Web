@@ -57,9 +57,9 @@
 
 ## 🛠️ How it Works
 
-- Hover over an image to see the transformation effect.
-- Optionally, click on an image to apply additional effects.
-- Modify the CSS and JavaScript to customize the transform behavior as needed.
+- The homepage displays a list of major cryptocurrencies and their prices.
+- Users can search for specific cryptocurrencies using the search bar.
+- Prices and charts are updated in real time based on the latest data.
 
 ## 🛠️ Customization
 
