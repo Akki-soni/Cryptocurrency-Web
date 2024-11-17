@@ -31,9 +31,9 @@
 
 ## 🛠️ Technologies Used
 
-- **HTML**: For structuring the images and layout.
-- **CSS**: For applying transformation effects, animations, and styling.
-- **JavaScript**: For handling dynamic interactions, such as on-click or on-hover transformations.
+- **HTML5**: For the structure of the website.
+- **CSS3**: For styling, animations, and responsive design.
+- **JavaScript**: To fetch and display real-time cryptocurrency data and handle interactions.
 
 ## 🌟 Screenshots
 
