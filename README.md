@@ -37,7 +37,7 @@
 
 ## 🌟 Screenshots
 
-![Image-Transform-Effect_Screenshot](/images/ITE_Screenshot.png)
+![Cryptocurrency-Web_Screenshot](/images/ITE_Screenshot.png)
 
 ## 🔗 Live Demo
 
@@ -51,7 +51,7 @@
    ```
 2. Open the project folder:
    ```bash
-   cd Image-Transform-Effect
+   cd Cryptocurrency-Web
    ```
 3. Open index.html in any web browser
 
@@ -61,11 +61,10 @@
 - Users can search for specific cryptocurrencies using the search bar.
 - Prices and charts are updated in real time based on the latest data.
 
-## 🛠️ Customization
+## 🛠️ API Integration
 
-- Easily change the type of transform (scale, rotate, skew, etc.) in the CSS.
-- Adjust the speed, duration, and easing of transitions.
-- Add more images or different effects through simple HTML and CSS updates.
+- The website fetches cryptocurrency data from a third-party API (e.g., CoinGecko API, CoinMarketCap API).
+- API key and integration details can be configured in the `script.js` file.
 
 ## 🤝 Contributing
 
