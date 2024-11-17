@@ -47,7 +47,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/Akki-soni/Image-Transform-Effect.git>
+   git clone <https://github.com/Akki-soni/Cryptocurrency-Web.git>
    ```
 2. Open the project folder:
    ```bash
