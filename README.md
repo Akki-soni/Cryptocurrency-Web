@@ -41,7 +41,7 @@
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://image-transform-effect.vercel.app/)
+[View Live Demo](https://cryptocurrency-web-tau.vercel.app/)
 
 ## How to Use
 
